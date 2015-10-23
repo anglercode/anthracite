@@ -13,7 +13,7 @@ docker run --restart=always \
            -e ES_URL=http://elasticsearch:9200 \
            -e ES_INDEX=anthracite-es \
            -p 8081:8081 \
-           -d v00rh33d/anthracite
+           -d v00rh33s/anthracite
 ```
 
 Ports:
